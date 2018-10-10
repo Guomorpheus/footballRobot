@@ -90,3 +90,5 @@ Enter your message>> 曼联 kg
 [{'n': (_0:football_club {image: 'manu.png', name: '\u66fc\u8054'})}]
 ```
 
+***
+如果您有兴趣，可以访问我的blog，zhewang.de
